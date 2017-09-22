@@ -1,0 +1,24 @@
+{
+  "name": "js-group",
+  "version": "0.0.1",
+  "description": "a simple JavaScript Type or category of detection",
+  "main": "js-group.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoKangInfo/js-group.git"
+  },
+  "keywords": [
+    "type",
+    "category",
+    "detection"
+  ],
+  "author": "HoKangInfo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HoKangInfo/js-group/issues"
+  },
+  "homepage": "https://github.com/HoKangInfo/js-group#readme"
+}
