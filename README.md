@@ -3,6 +3,7 @@ a simple JavaScript Type or category of detection
 
 
 ### history ###
+- 0.0.2    `isArray`
 - 0.0.1    `isNumber`, `isInteger`, `isLength`, `isString`
 
 ### install ###

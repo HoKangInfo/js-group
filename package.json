@@ -1,6 +1,6 @@
 {
   "name": "js-group",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a simple JavaScript Type or category of detection",
   "main": "js-group.js",
   "scripts": {

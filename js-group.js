@@ -9,7 +9,9 @@ var isLength = (value) => (isNumber(value) &&
     value > -1 && value % 1 == 0 && value <= Number.MAX_SAFE_INTEGER);
 
 var isString = (value) => (typeof value == 'string') ||
-    (Object.prototype.toString.call(value) == '[object String]')
+    (Object.prototype.toString.call(value) == '[object String]');
+
+var isArray = Array.isArray;
 
 
 module.exports = {
@@ -17,4 +19,5 @@ module.exports = {
     "isInteger": isInteger,
     "isLength": isLength,
     "isString": isString,
+    "isArray": isArray,
 };
